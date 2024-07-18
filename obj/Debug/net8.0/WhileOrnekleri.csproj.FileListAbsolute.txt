@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/bin/Debug/net8.0/WhileOrnekleri
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/bin/Debug/net8.0/WhileOrnekleri.deps.json
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/bin/Debug/net8.0/WhileOrnekleri.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/bin/Debug/net8.0/WhileOrnekleri.dll
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/bin/Debug/net8.0/WhileOrnekleri.pdb
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.dll
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/refint/WhileOrnekleri.dll
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.pdb
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/WhileOrnekleri.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/WhileOrnekleri/obj/Debug/net8.0/ref/WhileOrnekleri.dll
